@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Water_Wave
   m_Shader: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
@@ -41,8 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 2199f67b22b45c7458625e8aef2ad134, type: 3}
-        m_Scale: {x: 1.0026094, y: 1.0026094}
-        m_Offset: {x: 0, y: 0.00039187074}
+        m_Scale: {x: 0.9916261, y: 0.9916261}
+        m_Offset: {x: 0, y: 0.022157105}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
